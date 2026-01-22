@@ -1,5 +1,6 @@
 # CP-AF
 
+```bash
 conda create -n myenv python=3.10
 conda activate myenv
 # pytorch
@@ -14,3 +15,6 @@ python Pre-training.py
 
 # Fine-tuning
 python Fine-tuning
+
+
+```
